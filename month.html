@@ -1,0 +1,11 @@
+{% extends 'messages/botbase.html' %}
+{% block content %}
+<p>**** FESTIVAL REPORT ****</p>
+{% if wdata!="wrong" %}
+<p>The list of festivals is :</p>
+<p> {{wdata}}</p>
+{% else %}
+</p>Invalid month</p>
+{% endif %}
+{% endblock %}
+
