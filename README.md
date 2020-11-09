@@ -35,9 +35,9 @@ It is mainly deals with three operations:
 
 9.Finally Ends chat....and bot  restart when user say hi.
 
-Heroku link:
+Heroku link:https://mltodobot.herokuapp.com/
 
-YouTube link (DEMO VIDEO):
+YouTube link (DEMO VIDEO):https://youtu.be/byeJQUhyEIc
 
 
 
